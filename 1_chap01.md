@@ -40,8 +40,6 @@
 - 요구사항 반영이 어려움
 ---   
 <img width="1024" height="739" alt="image" src="https://github.com/user-attachments/assets/9480a514-b760-4e4c-bfcc-16c8cd9949df" />
-
-
 ---
 
 ## 📌 프로토타입 모형(Prototype Model)
@@ -50,6 +48,7 @@
 - 시스템 일부 또는 모형을 먼저 제작  
 - 새로운 요구사항 발생 시 프로토타입 반복 제작  
 - 단기간 제작으로 비효율적 언어/알고리즘 사용 가능
+--- 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4d7cb63d-87f1-473c-a3f4-9a4d8a7df6c2" />
 ---
 
@@ -58,7 +57,9 @@
 - 폭포수 + 프로토타입 + 위험 분석  
 - 반복적 개발로 점진적 완성  
 - 과정: 계획 → 위험 분석 → 개발·검증 → 고객 평가  
-- 핵심 기술 문제나 요구사항 이해 어려울 때 적합  
+- 핵심 기술 문제나 요구사항 이해 어려울 때 적합
+- 
+--- 
 <img width="520" height="482" alt="image" src="https://github.com/user-attachments/assets/bc8d2955-e7c3-4502-9906-f951f7e6a13f" />
 
 ---
@@ -75,9 +76,9 @@
 - 문서보다 실행되는 SW  
 - 계약 협상보다 고객 협업  
 - 계획 준수보다 변화 대응
+
+---  
 <img width="1768" height="1037" alt="image" src="https://github.com/user-attachments/assets/bb73e497-1d64-4707-957d-025b0826c0e3" />
-
-
 ---
 
 # Section 002. 스크럼(Scrum) 기법 (C 등급)
