@@ -102,7 +102,13 @@
 - **스프린트**: 2~4주 개발 주기  
 - **일일 스크럼 회의**: 15분 진행 상황 점검  
 - **스프린트 검토 회의**: 결과물 테스트  
-- **스프린트 회고**: 개선점 확인  
+- **스프린트 회고**: 개선점 확인
+--- 
+<img width="640" height="408" alt="image" src="https://github.com/user-attachments/assets/bef29ce3-497d-452c-96c0-9fb6fcf87d8a" />
+
+--- 
+https://media.licdn.com/dms/image/v2/C5112AQERf7fDkrFBzw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1524123864083?e=1769040000&v=beta&t=e2LB5bALrG_1FhYTvlecTn7Fy6WItpJyLXUFg93Jgk8
+
 
 ---
 
