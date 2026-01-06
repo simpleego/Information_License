@@ -37,7 +37,9 @@
 - 각 단계를 확실히 매듭짓고 승인 후 다음 단계 진행  
 - 보헴(Boehm)의 고전적 생명주기 모형  
 - 가장 오래되고 폭넓게 사용  
-- 요구사항 반영이 어려움  
+- 요구사항 반영이 어려움
+<img width="1024" height="739" alt="image" src="https://github.com/user-attachments/assets/9480a514-b760-4e4c-bfcc-16c8cd9949df" />
+
 
 ---
 
@@ -46,7 +48,9 @@
 - 의뢰자·개발자 모두의 참조 모델  
 - 시스템 일부 또는 모형을 먼저 제작  
 - 새로운 요구사항 발생 시 프로토타입 반복 제작  
-- 단기간 제작으로 비효율적 언어/알고리즘 사용 가능  
+- 단기간 제작으로 비효율적 언어/알고리즘 사용 가능
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4d7cb63d-87f1-473c-a3f4-9a4d8a7df6c2" />
+
 
 ---
 
