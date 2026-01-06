@@ -38,6 +38,7 @@
 - 보헴(Boehm)의 고전적 생명주기 모형  
 - 가장 오래되고 폭넓게 사용  
 - 요구사항 반영이 어려움
+---   
 <img width="1024" height="739" alt="image" src="https://github.com/user-attachments/assets/9480a514-b760-4e4c-bfcc-16c8cd9949df" />
 
 
