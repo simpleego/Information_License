@@ -50,8 +50,6 @@
 - 새로운 요구사항 발생 시 프로토타입 반복 제작  
 - 단기간 제작으로 비효율적 언어/알고리즘 사용 가능
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4d7cb63d-87f1-473c-a3f4-9a4d8a7df6c2" />
-
-
 ---
 
 ## 📌 나선형 모형(Spiral Model)
@@ -60,6 +58,7 @@
 - 반복적 개발로 점진적 완성  
 - 과정: 계획 → 위험 분석 → 개발·검증 → 고객 평가  
 - 핵심 기술 문제나 요구사항 이해 어려울 때 적합  
+<img width="520" height="482" alt="image" src="https://github.com/user-attachments/assets/bc8d2955-e7c3-4502-9906-f951f7e6a13f" />
 
 ---
 
@@ -74,7 +73,9 @@
 - 프로세스·도구보다 개인·상호작용  
 - 문서보다 실행되는 SW  
 - 계약 협상보다 고객 협업  
-- 계획 준수보다 변화 대응  
+- 계획 준수보다 변화 대응
+<img width="1768" height="1037" alt="image" src="https://github.com/user-attachments/assets/bb73e497-1d64-4707-957d-025b0826c0e3" />
+
 
 ---
 
