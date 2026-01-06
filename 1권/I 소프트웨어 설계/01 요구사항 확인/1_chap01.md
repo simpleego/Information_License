@@ -120,7 +120,11 @@
 ## 📌 XP 개요
 - 고객 요구사항 변화에 유연 대응  
 - 반복 개발, 단순 설계, 고객 참여 강조  
-- 자동화 테스트 활용  
+- 자동화 테스트 활용
+--- 
+<img width="913" height="522" alt="image" src="https://github.com/user-attachments/assets/4e208b29-38f5-4bf4-8bc3-d3f0d2428761" />
+
+--- 
 
 ## 📌 XP 핵심 가치
 - 의사소통  
