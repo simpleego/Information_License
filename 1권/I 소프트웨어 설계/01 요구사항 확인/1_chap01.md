@@ -244,6 +244,12 @@
 | 자료 저장소 | 데이터 저장 |
 | 단말 | 외부 개체 |
 
+--- 
+<img width="4033" height="3025" alt="image" src="https://github.com/user-attachments/assets/1e504b4e-2ac1-4e62-889a-d0e79acecd7c" />
+
+--- 
+
+
 ### 자료 흐름도 작성 지침
 - 처리 후 변환되면 새로운 이름 부여  
 - 출력 위해 입력 필요  
@@ -267,7 +273,7 @@
 
 # Section 008. 요구사항 분석 CASE & HIPO (B 등급)
 
-## 📌 SADT
+## 📌 SADT(Structured Analysis and Design Techniques)
 - SoftTech 개발  
 - 블록 다이어그램 기반 자동화 도구  
 
