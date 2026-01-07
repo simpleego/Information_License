@@ -298,7 +298,11 @@
 
 ## 📌 SADT(Structured Analysis and Design Techniques)
 - SoftTech 개발  
-- 블록 다이어그램 기반 자동화 도구  
+- 블록 다이어그램 기반 자동화 도구
+## 📌 SREM (Software Requirement Engineering Methodology): 
+- 요구사항 분석 및 검증을 위한 방법론과 도구 (RSL/REVS).
+## 📌 PSL/PSA (Problem Statement Language/Problem Statement Analyzer): 
+- 미시간 대학에서 개발된 언어와 분석기. 
 
 ## 📌 HIPO
 - 입력·처리·출력 중심 문서화 기법  
