@@ -123,7 +123,7 @@
 - 자동화 테스트 활용
 --- 
 <img width="913" height="522" alt="image" src="https://github.com/user-attachments/assets/4e208b29-38f5-4bf4-8bc3-d3f0d2428761" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/08c5ab39-3e18-4b99-8b5b-b5b482257ce3" />
+<img width="913" alt="image" src="https://github.com/user-attachments/assets/08c5ab39-3e18-4b99-8b5b-b5b482257ce3" />
 
 
 --- 
