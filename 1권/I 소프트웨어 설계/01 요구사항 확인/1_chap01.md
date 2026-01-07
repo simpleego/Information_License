@@ -271,9 +271,9 @@
 | {} | 반복 |
 | ** ** | 주석 |
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d0b94959-9a77-47cd-971c-d562737befa0" />
+--- 
 
-
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/29aee8c4-4d09-435e-b6a8-73e6944e8cf4" />
 ---
 
 # Section 008. 요구사항 분석 CASE & HIPO (B 등급)
