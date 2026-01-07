@@ -319,7 +319,24 @@
 
 ## 📌 UML 개요
 - 객체지향 모델링 표준 언어  
-- 구성요소: 사물, 관계, 다이어그램  
+- 구성요소: 사물, 관계, 다이어그램
+
+<img width="387" height="305" alt="image" src="https://github.com/user-attachments/assets/25095d59-6142-40e1-afa8-859b361ed8b1" />
+
+<img width="340" height="314" alt="image" src="https://github.com/user-attachments/assets/22c12919-cab8-4db9-8c31-c0191a1f5a4c" />
+
+<img width="765" height="150" alt="image" src="https://github.com/user-attachments/assets/c9a12c30-8eee-4abb-a485-9900d7136918" />
+<img width="291" height="254" alt="image" src="https://github.com/user-attachments/assets/0927079e-2022-4f24-b1df-e2a043882710" />
+
+
+--- 
+### Online Shopping UML
+<img width="640" height="476" alt="image" src="https://github.com/user-attachments/assets/7a50aafa-47fb-404e-a646-5dc79d694eda" />
+<img width="540" height="390" alt="image" src="https://github.com/user-attachments/assets/9caeb18f-6f1d-43a4-8879-7317bff6ec4d" />
+<img width="680" height="601" alt="image" src="https://github.com/user-attachments/assets/50ab4286-d356-4ccb-bb17-e90bacb31c7e" />
+
+--- 
+참고사이트 : https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/
 
 ## 📌 사물(Things)
 - 구조 사물  
