@@ -274,6 +274,8 @@
 --- 
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/29aee8c4-4d09-435e-b6a8-73e6944e8cf4" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7bf6f92c-0ca7-4503-bc01-c416579e1ce2" />
+
 ---
 
 # Section 008. 요구사항 분석 CASE & HIPO (B 등급)
