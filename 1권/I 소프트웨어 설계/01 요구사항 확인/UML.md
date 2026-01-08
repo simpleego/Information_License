@@ -46,6 +46,24 @@
 ❹ 생명선(lifeline ) : 객체가 존재할 수 있는 시간을 의미한다. 객체가 소멸되면 생명선도 함께 소멸된다.  
 ❺ 활성화(activation ) : 객체가 활성화된 기간을 의미한다.
 
+<img width="971" height="802" alt="image" src="https://github.com/user-attachments/assets/c0e8341e-db41-493b-b23b-26f52b2dd4e4" />
+
+### 시퀀스 다이어그램의 구성요소 : 사물(Things)
+- 생명선 또는 Lifeline
+
+<img width="1169" height="585" alt="image" src="https://github.com/user-attachments/assets/542b742c-9d00-4085-ab6c-10bdde0581e1" />
+
+### 시퀀스 다이어그램의 구성요소 : 관계(Relationships)
+- 메시지(Message)가 가장 많이 쓰임
+- 이는 프로그래밍 코드의 호출(call )과 밀접한 관계가 있음
+
+  <img width="1171" height="578" alt="image" src="https://github.com/user-attachments/assets/c43f887d-f8cf-448d-a9fe-ed107e016264" />
+
+
+
+
+
+
 
 
 
