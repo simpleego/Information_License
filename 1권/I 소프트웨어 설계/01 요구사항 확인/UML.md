@@ -21,7 +21,8 @@
   > 액터와 유스케이스 사이의 의미 있는 상호관계를 의미함
   > 연결선의 종류에 따라 연관, 포함, 확장, 일반화 관계로 구분됨
  
-<img width="1237" height="653" alt="image" src="https://github.com/user-attachments/assets/3d288360-adef-4a25-8381-682e41e27626" />
---- 
+<img width="1237" height="653" alt="image" src="https://github.com/user-attachments/assets/3d288360-adef-4a25-8381-682e41e27626" /> 
+
+---  
 <img width="1044" height="975" alt="image" src="https://github.com/user-attachments/assets/af79ade1-b900-4222-a3db-1253caaf0f73" />
 
