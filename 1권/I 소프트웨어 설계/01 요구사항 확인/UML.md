@@ -16,5 +16,7 @@
 <img width="2557" height="159" alt="image" src="https://github.com/user-attachments/assets/52db380d-60fe-4c7e-99c2-bccf87f08bcd" />
 
 ## 유스케이스 다이어그램 구성요소 : 사물(Things)
-- 액터(Actor)= 사용자, 케이스(Usecase)=서비스 또는 기능
+- 액터(Actor)= 사용자
+- 케이스(Usecase)=서비스 또는 기능
+ 
 <img width="1237" height="653" alt="image" src="https://github.com/user-attachments/assets/3d288360-adef-4a25-8381-682e41e27626" />
