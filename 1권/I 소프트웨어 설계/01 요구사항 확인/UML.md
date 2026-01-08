@@ -26,3 +26,14 @@
 ---  
 <img width="1044" height="975" alt="image" src="https://github.com/user-attachments/assets/af79ade1-b900-4222-a3db-1253caaf0f73" />
 
+### 해석 예시
+액터인 ‘학생’이 유스케이스 중 ‘공부를 한다’와 연결되어 있음  
+즉 ‘학생이 열람실에서 공부를 한다’로 해석됨  
+
+<img width="1288" height="332" alt="image" src="https://github.com/user-attachments/assets/9742f97a-a8e6-4157-8552-1931dd5d9295" />
+
+### 구내 식당 예제 유스케이스 다이아그램
+<img width="794" height="617" alt="image" src="https://github.com/user-attachments/assets/c1ada122-6268-48c1-b3fc-b9698c6f5375" />
+
+
+
