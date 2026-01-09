@@ -47,6 +47,6 @@
 
 ---
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d060213a-b739-4f31-8e6c-41503ee6cd0d" />
+<img width="700" height="1536" alt="image" src="https://github.com/user-attachments/assets/d060213a-b739-4f31-8e6c-41503ee6cd0d" />
 
 Activity 다이어그램은 복잡한 로직을 시각적으로 정리할 수 있어, **요구사항 분석, 시스템 설계, 업무 프로세스 개선** 등에 매우 유용합니다.  
