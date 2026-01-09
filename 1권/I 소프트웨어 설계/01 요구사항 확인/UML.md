@@ -11,6 +11,32 @@
 # 대표적인 UML 다이아그램 예시
 <img width="759" height="780" alt="image" src="https://github.com/user-attachments/assets/cf7aa7b3-9f7a-431a-bd41-60bf737a2c84" />
 
+## 클래스 다이어그램
+> 시스템의 정적 구조를 보여주며, 클래스와 클래스 간의 관계를 표현
+
+### 클래스 구성 요소
+- 클래스
+  > 공통의 속성, 메서드(오퍼레이션), 관계, 의미를 공유하는 객체 집합에 대한 기술
+- 속성
+  > 클래스의 구조적 특성에 이름을 붙인 것
+  > 구조적 특성에 해당하는 인스턴스가 보유할 수 있는 값의 범위를 기술
+  > 영문 소문자로 시작함
+  > 
+<img width="841" height="149" alt="image" src="https://github.com/user-attachments/assets/ac501faf-912e-4ecd-826d-f095abca49e2" />
+
+- 메서드
+
+<img width="909" height="531" alt="image" src="https://github.com/user-attachments/assets/40c124b0-6e2b-4f55-a881-892b9c492e72" />
+<img width="1055" height="302" alt="image" src="https://github.com/user-attachments/assets/ce177864-25f5-4429-9461-7b9188f9d39c" />
+
+### 클래스의 관계
+> 객체와 클래스 사이의 관계와 표현
+> 연관 관계는 의존 관계와 마찬가지로 객체를 생성하는 관계
+> 그러나 연관 관계는 멤버 변수로 참조하고, 의존 관계는 메서드로 참조한다는 것이 다름
+
+<img width="1297" height="527" alt="image" src="https://github.com/user-attachments/assets/668f45b3-4604-4dbd-a460-0cd067f8c369" />
+
+
 ## Use Case 다이아그램
 > 소프트웨어 혹은 시스템의 기능과 사용자들의 관계를 나타낼 수 있는 다이어그램이다. 시스템과 사용자의 상호관계를 표현하는 다이어그램이다.
 
