@@ -46,7 +46,9 @@
 | **실체화(Realization)** | 인터페이스 구현 | 점선 + 속이 빈 삼각형 |  
 | **의존(Dependency)** | 한 클래스가 다른 클래스에 의존 | 점선 화살표 |  
 
-[클래스 관계 사이트 주소](https://kyoun.tistory.com/100)
+[클래스 관계 사이트 주소1](https://kyoun.tistory.com/100)
+[클래스 관계 사이트 주소2](https://ocwokocw.tistory.com/14)
+[클래스 관계 사이트 주소3](https://itproda.tistory.com/101)
 
 
 ## Use Case 다이아그램
