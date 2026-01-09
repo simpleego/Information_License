@@ -6,10 +6,10 @@
 - 설명하는 사람뿐만 아니라 설명을 듣는 사람도 서로의 의도를 쉽게 이해하고 고칠 수 있기 때문에, UML을 보며 다양한 의견과 피드백이 오고 갈 수 있다.
 
 ## UML 다이어그램의 종료
-<img width="1221" height="728" alt="image" src="https://github.com/user-attachments/assets/c72f2dd9-6118-4877-8c62-5bd14fc38cdb" />
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/c72f2dd9-6118-4877-8c62-5bd14fc38cdb" />
 
 # 대표적인 UML 다이아그램 예시
-<img width="759" height="780" alt="image" src="https://github.com/user-attachments/assets/cf7aa7b3-9f7a-431a-bd41-60bf737a2c84" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/cf7aa7b3-9f7a-431a-bd41-60bf737a2c84" />
 
 ## 클래스 다이어그램
 > 시스템의 정적 구조를 보여주며, 클래스와 클래스 간의 관계를 표현
@@ -22,19 +22,19 @@
   > 구조적 특성에 해당하는 인스턴스가 보유할 수 있는 값의 범위를 기술
   > 영문 소문자로 시작함
   > 
-<img width="841" height="149" alt="image" src="https://github.com/user-attachments/assets/ac501faf-912e-4ecd-826d-f095abca49e2" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/ac501faf-912e-4ecd-826d-f095abca49e2" />
 
 - 메서드
 
-<img width="909" height="531" alt="image" src="https://github.com/user-attachments/assets/40c124b0-6e2b-4f55-a881-892b9c492e72" />
-<img width="1055" height="302" alt="image" src="https://github.com/user-attachments/assets/ce177864-25f5-4429-9461-7b9188f9d39c" />
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/40c124b0-6e2b-4f55-a881-892b9c492e72" />
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/ce177864-25f5-4429-9461-7b9188f9d39c" />
 
 ### 클래스의 관계
 > 객체와 클래스 사이의 관계와 표현
 > 연관 관계는 의존 관계와 마찬가지로 객체를 생성하는 관계
 > 그러나 연관 관계는 멤버 변수로 참조하고, 의존 관계는 메서드로 참조한다는 것이 다름
 
-<img width="1297" height="527" alt="image" src="https://github.com/user-attachments/assets/668f45b3-4604-4dbd-a460-0cd067f8c369" />
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/668f45b3-4604-4dbd-a460-0cd067f8c369" />
 
 
 ## Use Case 다이아그램
@@ -47,19 +47,19 @@
   > 액터와 유스케이스 사이의 의미 있는 상호관계를 의미함
   > 연결선의 종류에 따라 연관, 포함, 확장, 일반화 관계로 구분됨
  
-<img width="1237" height="653" alt="image" src="https://github.com/user-attachments/assets/3d288360-adef-4a25-8381-682e41e27626" /> 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/3d288360-adef-4a25-8381-682e41e27626" /> 
 
 ---  
-<img width="1044" height="975" alt="image" src="https://github.com/user-attachments/assets/af79ade1-b900-4222-a3db-1253caaf0f73" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/af79ade1-b900-4222-a3db-1253caaf0f73" />
 
 ### 해석 예시
 액터인 ‘학생’이 유스케이스 중 ‘공부를 한다’와 연결되어 있음  
 즉 ‘학생이 열람실에서 공부를 한다’로 해석됨  
 
-<img width="1288" height="332" alt="image" src="https://github.com/user-attachments/assets/9742f97a-a8e6-4157-8552-1931dd5d9295" />
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/9742f97a-a8e6-4157-8552-1931dd5d9295" />
 
 ### 구내 식당 예제 유스케이스 다이아그램
-<img width="794" height="617" alt="image" src="https://github.com/user-attachments/assets/c1ada122-6268-48c1-b3fc-b9698c6f5375" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/c1ada122-6268-48c1-b3fc-b9698c6f5375" />
 
 ##  Sequence 다이아그램
 - 시스템 세부사항들의 진행 과정과 시간적 흐름을 표현할 수 있는 다이어그램임
@@ -72,18 +72,18 @@
 ❹ 생명선(lifeline ) : 객체가 존재할 수 있는 시간을 의미한다. 객체가 소멸되면 생명선도 함께 소멸된다.  
 ❺ 활성화(activation ) : 객체가 활성화된 기간을 의미한다.
 
-<img width="971" height="802" alt="image" src="https://github.com/user-attachments/assets/c0e8341e-db41-493b-b23b-26f52b2dd4e4" />
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/c0e8341e-db41-493b-b23b-26f52b2dd4e4" />
 
 ### 시퀀스 다이어그램의 구성요소 : 사물(Things)
 - 생명선 또는 Lifeline
 
-<img width="1169" height="585" alt="image" src="https://github.com/user-attachments/assets/542b742c-9d00-4085-ab6c-10bdde0581e1" />
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/542b742c-9d00-4085-ab6c-10bdde0581e1" />
 
 ### 시퀀스 다이어그램의 구성요소 : 관계(Relationships)
 - 메시지(Message)가 가장 많이 쓰임
 - 이는 프로그래밍 코드의 호출(call )과 밀접한 관계가 있음
 
-  <img width="1171" height="578" alt="image" src="https://github.com/user-attachments/assets/c43f887d-f8cf-448d-a9fe-ed107e016264" />
+  <img width="900"  alt="image" src="https://github.com/user-attachments/assets/c43f887d-f8cf-448d-a9fe-ed107e016264" />
 
 
 
