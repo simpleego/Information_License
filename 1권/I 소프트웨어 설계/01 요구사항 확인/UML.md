@@ -124,7 +124,9 @@
 
 > **객체 내부의 상태 변화(동적 행위)**
 
-  <img width="626" height="531" alt="image" src="https://github.com/user-attachments/assets/d53e12c6-4273-439b-ad7b-9cfbc4785b1b" />
+<img width="626" height="531" alt="image" src="https://github.com/user-attachments/assets/d53e12c6-4273-439b-ad7b-9cfbc4785b1b" />
+
+<img width="627" height="507" alt="image" src="https://github.com/user-attachments/assets/bc68ee0f-46bb-4168-a198-f5784fe86379" />
 
 ---
 
