@@ -12,7 +12,9 @@
 
 ## Red-Black Tree
 > **자가 균형 이진 탐색 트리(Self-balancing BST)**로, 삽입·삭제 시에도 트리의 균형을 유지하여 **탐색, 삽입, 삭제 모두 \(O(\log n)\)** 시간 복잡도를 보장합니다.
-> 핵심은 **노드 색깔 규칙(빨강/검정)**과 **회전(Rotation)**을 통해 균형을 맞추는 것입니다.  
+> 핵심은 **노드 색깔 규칙(빨강/검정)**과 **회전(Rotation)**을 통해 균형을 맞추는 것입니다.
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/87d6bdcd-0d41-4efc-a27c-56df4f462ad7" />
+
 
 ---
 
