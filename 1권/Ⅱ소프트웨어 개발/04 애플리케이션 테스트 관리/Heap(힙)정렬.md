@@ -15,13 +15,20 @@
 
 ### 🔁 **반복**  
 이 과정을 **리스트의 모든 항목이 정렬될 때까지 반복**한다.
+
+<img width="750" height="489" alt="image" src="https://github.com/user-attachments/assets/c17bfecc-1ef5-49b7-84fd-cb288800be68" />
+
 ---
 
-<img width="750" height="848" alt="image" src="https://github.com/user-attachments/assets/2ed8aadb-b4d3-4695-9ac7-4e65ce10b001" />
+<img width="750" height="770" alt="image" src="https://github.com/user-attachments/assets/ec196eae-127a-4d12-8509-ef90dd7cc525" />
 
-<img width="750" height="848" alt="image" src="https://github.com/user-attachments/assets/f3c370c8-ddcd-4716-b739-074a3791cd83" />
 
-<img width="750" height="704" alt="image" src="https://github.com/user-attachments/assets/6ef54878-d5ac-4682-b27d-59a855809469" />
+<img width="750" height="848" alt="image" src="https://github.com/user-attachments/assets/5215ea35-5eea-4fa3-98fa-d7021574140e" />
 
-<img width="750" height="572" alt="image" src="https://github.com/user-attachments/assets/8b80d1f8-5af5-4153-a60e-ed903f2eedc8" />
+
+<img width="750" height="704" alt="image" src="https://github.com/user-attachments/assets/b63319c9-250b-41ea-a957-c334d1d9c26b" />
+
+
+<img width="750" height="572" alt="image" src="https://github.com/user-attachments/assets/80852139-1973-4899-b0d5-6a107019fa6d" />
+
 
