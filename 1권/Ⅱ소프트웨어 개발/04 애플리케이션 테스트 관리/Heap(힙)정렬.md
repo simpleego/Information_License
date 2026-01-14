@@ -15,7 +15,6 @@
 
 ### 🔁 **반복**  
 이 과정을 **리스트의 모든 항목이 정렬될 때까지 반복**한다.
-
 ---
 
 <img width="750" height="848" alt="image" src="https://github.com/user-attachments/assets/2ed8aadb-b4d3-4695-9ac7-4e65ce10b001" />
