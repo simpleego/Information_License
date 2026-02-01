@@ -19,3 +19,6 @@ https://us02web.zoom.us/j/83587566210?pwd=fOarJnnYM1R3woojdDs8IRCp2sbfBv.1
 참가 지침
 https://us02web.zoom.us/meetings/83587566210/invitations?signature=_WIJgYeJgx3XNLDDjjOAM0ZrKHy-Qj8tFvjH5tTA3mk
 
+
+
+https://us02web.zoom.us/j/83587566210?pwd=fOarJnnYM1R3woojdDs8IRCp2sbfBv.1
